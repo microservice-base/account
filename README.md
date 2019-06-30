@@ -2,5 +2,5 @@
 
 
 ```
-$ dotnet new webapp -o account --no-https
+$ dotnet new webapi -o account --no-https
 ```
