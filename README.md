@@ -1,6 +1,8 @@
 # account
 
 
+Account bilgilerinin tutulduğu projedir.
+
 ```
 $ dotnet new webapi -o account --no-https
 ```
