@@ -21,7 +21,7 @@ $ open http://localhost:5000/api/values
 
 ```
 $ docker pull keramiozsoy/image-account
-$ docker run -it --rm --name project-account -p 8003:80 image-account
+$ docker run -it --rm --name app-account -p 8003:80 image-account
 
 $ curl http://localhost:8003/api/values
 
