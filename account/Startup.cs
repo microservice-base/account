@@ -35,6 +35,10 @@ namespace account
                 app.UseDeveloperExceptionPage();
             }
 
+            // app.UseWelcomePage(new WelcomePageOptions { Path = "/account" });
+            app.UsePathBase("/account");
+            // localhost:5000/account  indexcontroller daki metodu çalıştırıyor.
+            // localhost:5000/         index contoller daki metodu çalıştırıyor. bu şekilde direk gitmek engellenmelidir.
             app.UseMvc();
         }
     }
