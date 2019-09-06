@@ -3,6 +3,10 @@
 
 Account bilgilerinin tutulduğu projedir.
 
+## Contributing
+
+[Contributing guide](CONTRIBUTING.md).
+
 ```
 $ dotnet new webapi -o account --no-https
 ```
