@@ -1,7 +1,7 @@
 # account
 
 
-Account bilgilerinin tutulduğu projedir.
+Account projesi, ana projenin kişi bilgilerinin tutulduğu alt projedir.
 
 ## Contributing
 
