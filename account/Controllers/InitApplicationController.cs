@@ -8,7 +8,7 @@ namespace account.Controllers
 {
     [Route("/")]
     [ApiController]
-    public class IndexController : ControllerBase
+    public class InitApplicationController : ControllerBase
     {
 
         [HttpGet]
