@@ -8,11 +8,12 @@ Account projesi, ana projenin kişi bilgilerinin tutulduğu alt projedir.
 [Contributing guide](CONTRIBUTING.md).
 
 ```
-$ dotnet new webapi -o account --no-https
+$ dotnet new webapi -o account --no-https
 ```
+```
+$ git clone https://github.com/microservice-base/account.git
 
-```
-$ cd account 
+$ cd account 
 
 $ dotnet run 
 
