@@ -4,19 +4,13 @@
 Account projesi, ana projenin kişi bilgilerinin tutulduğu alt projedir.
 
 
-## How to create project 
+## How to create project
 
 ```
 $ dotnet new webapi -o account --no-https
 ```
 
-
-## Contributing
-
-[Contributing guide](CONTRIBUTING.md).
-
-
-## How to run project
+## How to run project
 
 ```
 $ git clone https://github.com/microservice-base/account.git
@@ -27,6 +21,11 @@ $ dotnet run
 
 $ open http://localhost:5000/api/values
 ```
+
+## Contributing
+
+[Contributing guide](CONTRIBUTING.md).
+
 
 ## docker 
 
