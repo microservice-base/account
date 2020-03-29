@@ -1,7 +1,6 @@
 # account
 
-
-Account projesi, ana projenin kişi bilgilerinin tutulduğu alt projedir.
+This project provides information about all account operations
 
 
 ## how to create project
